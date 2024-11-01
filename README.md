@@ -76,7 +76,7 @@ You can find 30+ more at [Byte-sized Design](https://bytesizeddesign.substack.co
 1. [Walmart Labs Blog](https://medium.com/walmartlabs)
 1. [Yelp Engineering Blog](https://engineeringblog.yelp.com/)
 1. [Zendesk Engineering Blog](https://engineering.zendesk.com/)
-1. [Zillow Engineering Blog](https://www.zillowgroup.com/tech/)
+1. [Zillow Engineering Blog](https://www.zillow.com/tech/)
 
 
 ## 🏀 Newsletters senior engineers read to lead
